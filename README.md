@@ -1,5 +1,5 @@
 # dataAlgorithm
-My implementation of common Java data structure and Algorithm Coding Interview Questions
+My implementation of common Java data structure and Algorithm Coding Interview Questions. This questions were gotten from https://java2blog.com/data-structure-and-algorithm-interview-questions-in-java/
 
 
 # Stack
@@ -55,7 +55,8 @@ My implementation of common Java data structure and Algorithm Coding Interview Q
     Question 44 : Find the Contiguous Subarray with Sum to a Given Value in an array.
     Question 45 : Longest Common Prefix in an array of Strings in java.
     Question 46 : Find all subsets of set (power set) in java.
-    String
+    
+# String
     Question 47 : How to reverse a String in java? Can you write a program without using any java inbuilt methods?
     Question 48 : Write a java program to check if two Strings are anagram in java?
     Question 49 : Write a program to check if String has all unique characters in java?
@@ -65,7 +66,8 @@ My implementation of common Java data structure and Algorithm Coding Interview Q
     Question 53 : Find all substrings of String in java?
     Question 54 : Find length of String without using any inbuilt method in java?
     Question 55 : Write a program to print all permutations of String in java?
-    Binary Tree
+    
+# Binary Tree
     Question 56 : How can you traverse binary tree?
     Question 57 : Write an algorithm to do level order traversal of binary tree?
     Question 58 :  Write an algorithm to do spiral order traversal of binary tree?
@@ -78,7 +80,9 @@ My implementation of common Java data structure and Algorithm Coding Interview Q
     Question 65 : How to do boundary traversal of binary tree.
     Question 66 : How to print vertical sum of binary tree?
     Question 67 : Count subtrees with Sum equal to target in binary tree?
-    Binary Search tree
+    
+# Binary Search tree
+    
     Question 68 : What is binary search tree?
     Question 69 : Can you write algorithm to insert a node in binary search tree.
     Question 70 : Can you write algorithm to delete a node in binary search tree.
